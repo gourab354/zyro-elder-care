@@ -1,0 +1,9 @@
+{
+  "name": "AI_CARE",
+  "description": "A highly polished, slate/emerald dark themed healthcare dashboard for elderly care. Features heartbeat rate monitoring, active movement tracking, real-time skeleton-based fall detection via webcams, medication checklists, rPPG facial ROI contactless heart trackers, microphone-based vocal decibel alerts, and medical report document translation powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
